@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://test-gloredo-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "a9e49d58dd93e4d81e3d2e1b9ade9b2fbfe8c95cd0067bca06874cda5ba565bae93377bf8211b41500dd4ff3dd67039edc8af4c92f60c5e79cb205bb05cb8ae3f685b7b25f5d1cc2baf0aa580e8c178791dd3df4642b26960a9f6931528d42a67e0d7598779668b052fb0f45a60a150f3c7d156d505be7397ab93039c87cfab324f62dd841db5971cbac948daeb1c0612287cc20fa073e9910aef6bda6f3653f5ca59502237832d8b10ec565d181b2547ffcc6a4d8219e03803908bf54efc4f5c6b023111a7811968cecaf8dbc5de1de9f9398bdd6f097141e4d7be88112623f"
+  }
+}
